@@ -17,8 +17,7 @@
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 
 ### Github Statistics 📈
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandon-005&show_icons=true" alt="brandon-005" /></p>
-<td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-005&layout=compact" alt="Top Langs" /></td>
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon-005)](https://github.com/brandon-005)
 
 
 ### Contact Me 💬
